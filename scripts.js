@@ -1,4 +1,4 @@
-const images = ['images/Their Own Kind of Love p1.png','images/Their Own Kind of Love p2.png',];
+const images = ['images/Their_Own_Kind_of_Love_p1.png','images/Their_Own_Kind_of_Love_p2.png',];
 let index = 0;
 
 window.addEventListener('load', () => {
